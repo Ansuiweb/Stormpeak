@@ -9,11 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_sexes = list(MALE, FEMALE)
 	display_order = JDO_PHYSICIAN
-	tutorial = "You were a child born into good wealth - But poor health. \
-		Perhaps in another life, you would have turned out to be a powerful mage, wise archivist or a shrewd steward, \
-		but leprosy took away your younger years. \
-		Out of desperation, you followed the ways of Pestra and managed to be cured. \
-		Now you serve in the King's court ensuring the good health of those inhabiting the keep."
+	tutorial = "İyi bir servete doğmuş bir çocuk oldun ama sağlığın pek iyi değildi. Belki başka bir hayatta güçlü bir büyücü, bilge bir arşivci veya kurnaz bir steward olabilirdin, ama cüzzam genç yıllarını aldı. Umutsuzluktan Pestra'nın yollarını takip ettin ve iyileşmeyi başardın. Şimdi Kral’ın sarayında, kaleyi işgal edenlerin sağlığını sağlamak için hizmet ediyorsun."
 	outfit = /datum/outfit/job/roguetown/physician
 	whitelist_req = TRUE
 

@@ -4,7 +4,7 @@
 	title = "Templar"
 	department_flag = CHURCHMEN
 	faction = "Station"
-	tutorial = "Templars are warriors who have forsaken wealth and title in lieu of service to the church, due to either zealotry or a past shame. They guard the church and its priest, while keeping a watchful eye against heresy and nite-creechers. Within troubled dreams, they wonder if the blood they shed makes them holy or stained."
+	tutorial = "Tepkilerinin temeli, servet ve unvanı terk eden Templar savaşçılarından oluşur; ya tutkulu bir bağlılık ya da geçmişteki bir utanç yüzünden. Kiliseyi ve rahibi korurken, sapkınlık ve gece yaratıklarına karşı dikkatli bir göz tutuyorlar. Rahmet dolu rüyalarında, döktükleri kanın onları kutsal mı yoksa lekeli mi kıldığını merak ediyorlar."
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = RACES_TOLERATED_UP
 	allowed_patrons = ALL_CLERIC_PATRONS

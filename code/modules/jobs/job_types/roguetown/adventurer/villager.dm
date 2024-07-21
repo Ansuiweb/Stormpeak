@@ -6,7 +6,7 @@
 	total_positions = 75
 	spawn_positions = 75
 	allowed_races = RACES_ALL_KINDS
-	tutorial = "You've lived in this shithole for effectively all your life. You are not an explorer, nor exactly a warrior in many cases. You're just some average poor bastard who thinks they'll be something someday."
+	tutorial = "Hayatının neredeyse tamamını bu berbat yerde geçirdin. Sen bir kaşif değilsin, çoğu durumda tam olarak bir savaşçı da değilsin. Sadece bir gün bir şey olacağını düşünen ortalama bir yoksulun kendisin."
 	advclass_cat_rolls = list(CTAG_TOWNER = 20)
 	outfit = null
 	outfit_female = null

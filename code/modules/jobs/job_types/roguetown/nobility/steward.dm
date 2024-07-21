@@ -9,7 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_sexes = list(MALE, FEMALE)
 	display_order = JDO_STEWARD
-	tutorial = "Coin, Coin, Coin! Oh beautiful coin: You're addicted to it, and you hold the position as the King's personal treasurer of both coin and information. You know the power silver and gold has on a man's mortal soul, and you know just what lengths they'll go to in order to get even more. Keep your festering economy and your rats alive, the'yre the only two things you can weigh any trust into anymore."
+	tutorial = "Para, para, para! Ah, güzel para: Ona bağımlısınız ve Kral'ın hem para hem de bilgi haznedarı olarak görev yapıyorsunuz. Gümüş ve altının insan ruhu üzerindeki gücünü biliyorsunuz ve daha fazlasını elde etmek için ne kadar ileri gideceklerini çok iyi biliyorsunuz. Çürüyen ekonominizi ve sıçanlarınızı hayatta tutun, artık güvenebileceğiniz tek şey onlar."
 	outfit = /datum/outfit/job/roguetown/steward
 	give_bank_account = 17
 	min_pq = 2

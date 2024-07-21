@@ -8,7 +8,7 @@
 
 	allowed_sexes = list(FEMALE)
 	allowed_races = RACES_TOLERATED_UP
-	tutorial = "Picked out of your political value rather than likely any form of love, you have become the King's most trusted confidant and likely friend throughout your marriage. Your loyalty and, perhaps, love; will be tested this day. For the daggers that threaten your beloved are as equally pointed at your own throat."
+	tutorial = "Muhtemelen herhangi bir romantik çekimden ziyade, siyasi değeriniz yüzünden seçildiniz ve evliliğiniz boyunca Kral'ın en güvendiği sırdaşı ve muhtemel dostu oldunuz. Sadakatiniz ve belki de sevginiz, bugün sınanacak. Çünkü sevgilinizi tehdit eden hançerler, aynı şekilde sizin boğazınıza da yönelmiş durumda"
 
 	spells = list(/obj/effect/proc_holder/spell/self/convertrole/servant)
 	outfit = /datum/outfit/job/roguetown/lady

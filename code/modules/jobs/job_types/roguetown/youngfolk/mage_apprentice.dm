@@ -9,8 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_ADULT)
 
-	tutorial = "Your master once saw potential in you, something you are uncertain if they still do with your recent studies. The path to using magic is something treacherous and untamed, and you are still decades away from calling yourself even a journeyman in the field. Listen and serve, and someday you will earn your hat."
-
+	tutorial = "Ustan bir zamanlar içindeki potansiyeli görmüştü; son dönemlerdeki çalışmalarıyla hâlâ öyle düşünüp düşünmediğinden emin değilsin. Büyü kullanma yolu, tehlikeli ve kontrolsüz bir yoldur ve bu alanda kendini meslektaş olarak adlandırmana hâlâ on yıllar var. Dinle ve hizmet et, bir gün şapkanı kazanacaksın."
 	spells = list(/obj/effect/proc_holder/spell/invoked/projectile/fetch)
 	outfit = /datum/outfit/job/roguetown/wapprentice
 	

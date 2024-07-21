@@ -9,10 +9,8 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_sexes = list(MALE, FEMALE)
 	display_order = JDO_COUNCILLOR
-	tutorial = "You may have inherited this role, bought your way into it, or were appointed by the bailiff; \
-			Whatever it was you now serve as a assistant, planner, and juror for the Bailiff. \
-			You help him oversee the taxation, construction, and planning of new laws. \
-			You only answer to the Bailiff, Queen, King, Princes, or Princesses. However, your main focus is to assist the Bailiff."
+	tutorial = "Bu rolü miras almış, satın almış veya bailiff tarafından atanmış olabilirsiniz; ne olursa olsun, şimdi bailiff için yardımcı, planlamacı ve jüri olarak hizmet ediyorsunuz. Vergilendirme, inşaat ve yeni yasaların planlanmasını denetlemesine yardım ediyorsunuz. Sadece Bailiff, Kraliçe, Kral, Prensler veya Prenseslere cevap verirsiniz. Ancak ana odak noktanız, Bailiff'e yardımcı olmaktır.
+"
 	whitelist_req = FALSE
 	outfit = /datum/outfit/job/roguetown/councillor
 	

@@ -11,7 +11,7 @@
 
 	display_order = JDO_DUNGEONEER
 
-	tutorial = "Sometimes at night you stare into the vacant room and feel the loneliness of your existence crawl into whatever remains of your loathsome soul. You will never know hunger, thirst or want for anything with the mammons you make: Just as you’ll never forget the sounds a saw makes cutting through the bone, what a drowning man will gurgle out between the blood and teeth strangling his breath. You’re a terrible person, and the carriagemen are going to enjoy walking you down that lonesome path to hell."
+	tutorial = "Bazen geceleri boş odaya bakar ve varlığının yalnızlığının, nefret ettiğin ruhunun geriye kalanlarına sızdığını hissediyorsun. Elde ettiğin mamonlarla açlık, susuzluk ya da herhangi bir şey için istek duymayacaksın: Aynı zamanda, bir testerenin kemiği keserken çıkardığı sesi asla unutamayacaksın; bir boğulan adamın kan ve dişler arasında nefesini boğarken çıkardığı gurgulama sesini. Korkunç bir insansın ve taşımacılar, seni o yalnız cehennem yoluna götürmekten zevk alacak."
 
 	outfit = /datum/outfit/job/roguetown/dungeoneer
 	give_bank_account = 5

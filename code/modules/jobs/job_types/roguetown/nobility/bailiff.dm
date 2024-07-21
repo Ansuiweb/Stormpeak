@@ -9,7 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD)
 	display_order = JDO_BAILIFF
-	tutorial = "You judge the common folk and their wrongdoings if necessary. You help plan with the Councillors and maybe the King on any new issues, laws, judgings, and construction that are required to adapt to the world. You have two assistant Councillors that may serve as jurors to assist you in your job. You are required to enforce taxes for the King, judge people for breaking the law, make sure the town and manor are not in decay, and to help plan or construct new buildings. You are allowed some limited control over Guards, however it is not the focus of your job unless special circumstances are to change this."
+	tutorial = "Gerekirse halkın suçlarını yargılarsınız. Yeni sorunlar, yasalar, yargılamalar ve inşaatlarla ilgili olarak danışmanlar ve belki de Kral ile plan yapmaya yardım edersiniz. İşinizi desteklemek için jüri olarak hizmet edebilecek iki yardımcı danışmanınız vardır. Kral için vergileri uygulamak, kanunu çiğneyen insanları yargılamak, kasaba ve malikânenin harap olmadığından emin olmak ve yeni binalar planlamakla görevlisiniz. Özel durumlar hariç, gardiyanlar üzerinde sınırlı bir kontrolünüz vardır, bu işinizin odak noktası değildir."
 	whitelist_req = FALSE
 
 	spells = list(/obj/effect/proc_holder/spell/self/convertrole/guard, /obj/effect/proc_holder/spell/self/convertrole/bog)

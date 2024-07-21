@@ -9,8 +9,7 @@
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_ages = list(AGE_ADULT)
 
-	tutorial = "Mom 'n' Da said you were going to be something, they had better aspirations for you than the life of a peasant. You practiced the basics in the field alongside your friends, swordfighting with sticks, chasing rabbits with grain flail, and helping around the house lifting heavy bags of grain. The Knight took notice of your potential and brought you on as his personal ward. You're going to be something someday. "
-
+	tutorial = "Anne ve baban senin bir şey olacağını söyledi; senin için köylü hayatından daha büyük beklentileri vardı. Arkadaşlarınla birlikte alanda temel becerileri pratik ettin; sopalarla kılıç dövüşü yaptın, tahıl sarmasıyla tavşan kovaladın ve evde ağır tahıl torbalarını kaldırarak yardımcı oldun. Şövalye potansiyelini fark etti ve seni kişisel evladı olarak aldı. Bir gün bir şey olacaksın."
 	outfit = /datum/outfit/job/roguetown/squire
 	display_order = JDO_SQUIRE
 	give_bank_account = TRUE

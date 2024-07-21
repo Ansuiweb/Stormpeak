@@ -11,9 +11,7 @@
 	allowed_sexes = list(MALE, FEMALE)
 	spells = list(/obj/effect/proc_holder/spell/invoked/projectile/fireball/greater, /obj/effect/proc_holder/spell/invoked/projectile/fireball, /obj/effect/proc_holder/spell/invoked/projectile/lightningbolt, /obj/effect/proc_holder/spell/invoked/projectile/fetch)
 	display_order = JDO_MAGICIAN
-	tutorial = "Your creed is one dedicated to the conquering of the arcane arts and the constant thrill of knowledge. \
-		You owe your life to the Lord, for it was his coin that allowed you to continue your studies in these dark times. \
-		In return, you have proven time and time again as justicar and trusted advisor to their reign."
+	tutorial = "İnancın, mistik sanatları fethetmeye ve bilginin sürekli heyecanına adanmıştır. Hayatını Lord’a borçlusun; çünkü karanlık zamanlarda eğitimine devam etmene olanak tanıyan onun parasıydı. Buna karşılık, defalarca adaletin savunucusu ve hükümdarlığının güvenilir danışmanı olarak kendini kanıtladın."
 	outfit = /datum/outfit/job/roguetown/magician
 	whitelist_req = TRUE
 	give_bank_account = 47

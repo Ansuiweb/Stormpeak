@@ -10,8 +10,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_MIDDLEAGED, AGE_OLD)
 
-	tutorial = "Servitude unto death; That is your motto. Having nurtured royalty for years, you are nothing short of the King's majordomo, commanding over the rest of the house staff."
-
+	tutorial = "Ölümüne hizmet” senin mottom. Yıllarca kraliyeti besleyerek, Kral'ın majordomosu olmaktan başka bir şey değilsin; evin diğer personelini yönetiyorsun"
 	outfit = /datum/outfit/job/roguetown/butler
 	display_order = JDO_BUTLER
 	give_bank_account = 30

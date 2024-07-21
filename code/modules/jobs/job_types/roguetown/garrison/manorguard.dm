@@ -9,7 +9,7 @@
 	allowed_sexes = list(MALE)
 	allowed_races = RACES_TOLERATED_UP
 	allowed_ages = list(AGE_ADULT, AGE_MIDDLEAGED)
-	tutorial = "Having proven yourself loyal and capable, you are entrusted to defend the Royal Family and their Court, trained regularly in combat and siege warfare you stand a small chance of surviving the King's reign."
+	tutorial = "Sadık ve yetenekli olduğunu kanıtladıktan sonra, Kraliyet Ailesi ve Sarayı’nı koruma görevini üstlendin; düzenli olarak savaş ve kuşatma taktikleri eğitimi alıyorsun ve Kral’ın saltanatında hayatta kalma şansın pek az."
 	display_order = JDO_CASTLEGUARD
 	whitelist_req = TRUE
 

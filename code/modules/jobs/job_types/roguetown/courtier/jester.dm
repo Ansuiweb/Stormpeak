@@ -8,10 +8,7 @@
 
 	allowed_races = RACES_ALL_KINDS
 
-	tutorial = "The Grenzelhofts were known for their Jesters, wisemen with a tongue just as sharp as their wit. \
-		You command a position of a fool, envious of the position your superiors have upon you. \
-		Your cheap tricks and illusions of intelligence will only work for so long, \
-		and someday you'll find yourself at the end of something sharper than you."
+	tutorial = "Grenzelhoftlar, zekâsı dilleri kadar keskin olan bilge jonglörleriyle tanınıyordu. Bir fool (soytarı) pozisyonunu yönetiyorsun ve üstünlerinin sahip olduğu pozisyona imreniyorsun. Ucuz numaraların ve zeka illüzyonların yalnızca bir süre işe yarayacak, bir gün kendini senden daha keskin bir şeyin ucunda bulacaksın."
 
 	allowed_ages = ALL_AGES_LIST
 	spells = list(/obj/effect/proc_holder/spell/self/telljoke,/obj/effect/proc_holder/spell/self/telltragedy)
