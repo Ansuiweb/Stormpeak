@@ -12,7 +12,7 @@
 	tutorial = "Para, para, para! Ah, güzel para: Ona bağımlısınız ve Kral'ın hem para hem de bilgi haznedarı olarak görev yapıyorsunuz. Gümüş ve altının insan ruhu üzerindeki gücünü biliyorsunuz ve daha fazlasını elde etmek için ne kadar ileri gideceklerini çok iyi biliyorsunuz. Çürüyen ekonominizi ve sıçanlarınızı hayatta tutun, artık güvenebileceğiniz tek şey onlar."
 	outfit = /datum/outfit/job/roguetown/steward
 	give_bank_account = 17
-	min_pq = 2
+	min_pq = 0
 	max_pq = null
 
 /datum/outfit/job/roguetown/steward/pre_equip(mob/living/carbon/human/H)
