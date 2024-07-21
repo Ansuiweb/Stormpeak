@@ -9,8 +9,7 @@
 	allowed_races = RACES_TOLERATED_UP
 	allowed_sexes = list(MALE, FEMALE)
 	display_order = JDO_COUNCILLOR
-	tutorial = "Bu rolü miras almış, satın almış veya bailiff tarafından atanmış olabilirsiniz; ne olursa olsun, şimdi bailiff için yardımcı, planlamacı ve jüri olarak hizmet ediyorsunuz. Vergilendirme, inşaat ve yeni yasaların planlanmasını denetlemesine yardım ediyorsunuz. Sadece Bailiff, Kraliçe, Kral, Prensler veya Prenseslere cevap verirsiniz. Ancak ana odak noktanız, Bailiff'e yardımcı olmaktır.
-"
+	tutorial = "Bu rolü miras almış, satın almış veya bailiff tarafından atanmış olabilirsiniz; ne olursa olsun, şimdi bailiff için yardımcı, planlamacı ve jüri olarak hizmet ediyorsunuz. Vergilendirme, inşaat ve yeni yasaların planlanmasını denetlemesine yardım ediyorsunuz. Sadece Bailiff, Kraliçe, Kral, Prensler veya Prenseslere cevap verirsiniz. Ancak ana odak noktanız, Bailiff'e yardımcı olmaktır."
 	whitelist_req = FALSE
 	outfit = /datum/outfit/job/roguetown/councillor
 	
