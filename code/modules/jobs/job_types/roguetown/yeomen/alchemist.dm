@@ -3,8 +3,8 @@
 	flag = ALCHEMIST
 	department_flag = YEOMEN
 	faction = "Station"
-	total_positions = 0
-	spawn_positions = 0
+	total_positions = 1
+	spawn_positions = 1
 
 	allowed_races = RACES_TOLERATED_UP
 
