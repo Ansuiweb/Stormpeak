@@ -8,7 +8,7 @@
 
 	allowed_races = RACES_TOLERATED_UP
 
-	tutorial = "You studied for many decades under your master with a few other apprentices to become an Armorer, a trade that certainly has seen a boom in revenue in recent times with many a bannerlord seeing the importance in maintaining a well-equipped army."
+	tutorial = "Zırh ustası olmak için üstadınızın yanında birkaç çırakla birlikte onlarca yıl çalıştınız, bu meslekte son zamanlarda gelirde kesinlikle bir patlama yaşandı ve pek çok sancak beyi kaliteli işlenmiş ekipmanı kuşanan bir orduya sahip olmanın önemini anladı."
 
 	outfit = /datum/outfit/job/roguetown/armorsmith
 	display_order = JDO_ARMORER

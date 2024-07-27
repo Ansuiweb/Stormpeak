@@ -8,7 +8,7 @@
 
 	allowed_races = RACES_TOLERATED_UP
 
-	tutorial = "Liquor Lodging and Lavish Baths, youre the life of the party and a rich bastard because of it. Well before that pesky merchant came around and convinced people to take up the bottle instead of the tankred, you were the reason the hardworking men and women of this town could rest."
+	tutorial = "İçkili Konaklama ve Lüks Hamamlar, partinin yaşam kaynağısın ve bu yüzden zengin bir piçsin. O sinir bozucu tüccar gelip insanları tankred yerine şişeyi almaya ikna etmeden çok önce, bu kasabanın çalışanlarının kafa dinleyip rahatlamasının sebebi sendin."
 
 	outfit = /datum/outfit/job/roguetown/barkeep
 	display_order = JDO_BARKEEP

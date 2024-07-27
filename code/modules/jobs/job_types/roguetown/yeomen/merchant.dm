@@ -7,7 +7,7 @@
 	spawn_positions = 1
 	selection_color = JCOLOR_YEOMAN
 	allowed_races = RACES_TOLERATED_UP
-	tutorial = "You were born into wealth, learning from before you could talk about the basics of mathematics. Counting coins is a simple pleasure for any person, but you've made it an artform. These people are addicted to your wares and you are the literal beating heart of this economy: Dont let these filthy-covered troglodytes ever forget that."
+	tutorial = "Zenginliğin içinde doğdunuz, daha konuşmaya bile başlamadan matematiğin temellerini öğrendin.Para saymak herkes için basit bir zevktir ama siz bunu bir sanat formuna dönüştürdünüz. Bu insanlar sizin ürünlerinize bağımlı ve siz de bu ekonominin gerçek anlamda atan kalbisiniz: Bu pisliklerle kaplı ilkel adamların bunu asla unutmasına izin vermeyin."
 
 	display_order = JDO_MERCHANT
 
